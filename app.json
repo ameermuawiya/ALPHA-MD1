@@ -1,8 +1,8 @@
 {
-  "name":"ALPHA-MD",
-  "description":"bot whatsapp développé par France King",
+  "name":"𝐀𝐌𝐄𝐄𝐑-𝐌𝐔𝐀𝐖𝐈𝐘𝐀-MD",
+  "description":"bot whatsapp",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
+  "logo":"https://i.ibb.co/Cb81NxN/251.jpg",
   "repository":"https://github.com/Keithkeizzah/keith-tech-1",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"KEITH-TECH",
+      "value":"𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
+      "value":"https://i.ibb.co/Cb81NxN/251.jpg,https://i.ibb.co/Cb81NxN/251.jpg,https://i.ibb.co/Cb81NxN/251.jpg",
       "required":false
        
      },
@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidU4xNk1oSHNYaW5vZm1aVGdCL3A0TE54c1JrNnk0aTczMzRxVC94cEszdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoid0RsTTlmVGs3TU5iL1BXWlMrekZuQzBHMnRCZHovVS9FdElKWUd5ZnUyMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ3R2lub1hrZ0NKMnBuQzNoUjBCeWZEYWdyUzZTbVI3UENjZEFwN3RLQzBvPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwWnBGWFgxUzJpY2F1Rlk4QXZDakNQREh3SVlNalozdXRVOEp6c25mUjNBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlNBSDU1QVFlMzZxcmFsdXQydnY5Z01vV3dTSVpORmdjWUhJejRmekJXVzQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InM0bkQyQ1BKK2wxWWVTa1VmT0R4a2FJd2NQYUF4b2NlTlhyTjk2SXZFQnM9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUNpcGlabjc2Tjd6MEJENHBBbFlRV0R4dGR6a3FETnMvbGgwN0FGditrcz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoibTZDY0VPbUl2UHFZTFhzYTVmU2Nmc3cxeUorZHNHN0pRMG9rODJ0cEYzaz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikh3NVBrYWJ2RE1tamJURnplSFRjZEFHeFZyMnlTOGVZclZTZU5ydWZRTERGcG5nYStjbXBxa1hGV0RlRXNMdlBJK29VbEZmMkUzVzJreFIwSllCREJnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjI0LCJhZHZTZWNyZXRLZXkiOiJkZ1JzR0ZOSFVkazdUZmc1YXRid3ZYLys5OHZxSEZHL3hpRnkrOGxCTnJzPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJhSExUc0pjYVMtR19YdWFpbENkOTlBIiwicGhvbmVJZCI6ImE0ZDI1NTczLTk2N2QtNDVhOC05Y2ZkLWJhN2ExYWUyZDc5ZCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJHSS9QOTZiV0kramRKZGMrTHV3VVVsYlBxSWc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia2NuQkVITi9pdmJkZ0V6d1pIWUwvN3FWVWI0PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkxHSk5WVjhWIiwibWUiOnsiaWQiOiI5MjM0NzIyMDczOTk6MThAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi4LyE4bacyrPhtYPhtrvKuPCdmbHwnZm+8J2aiCDgv5BcblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxuXG5cblxu5LqXIPCdkIDwnZCM8J2QhPCdkITwnZCRIPCdkIzwnZCU8J2QgPCdkJbwnZCI8J2QmPCdkIAg5LqXIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNMeWl0c0lIRU4zNDZMUUdHQVlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJDdXdoK2VOQzU0WSt5NDMySWNyWEFuVkQweGRxVjlwNmdQbTE0TlBWNmdNPSIsImFjY291bnRTaWduYXR1cmUiOiJqaHA2TFBoY0pCV0p5YnJEdGNTT25lMEVyL1RYSldic2g5OHhSOFd4b2lQRVZrb05XRkc2QXh0d1pESFk0RkpRdURHWUZ1S2xENHBDODVLcktYWnJCQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiSFpZam0zWlFCdEhWeTVveFRRUGhheWcrT1liYm82V3hXTTNwYnZDRmY0b3EweFRyeGtlSkRrKzBhYlVycENUQWdxRytyaXNicW41TDFVRGZCQ0U3QUE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5MjM0NzIyMDczOTk6MThAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCUXJzSWZualF1ZUdQc3VOOWlISzF3SjFROU1YYWxmYWVvRDV0ZURUMWVvRCJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcyMTM4NDA0MiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFPNUsifQ==",
       "required":true
       
     },
@@ -74,20 +74,20 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "MR KEITH"
+    "value": "𝐀𝐌𝐄𝐄𝐑 𝐌𝐔𝐀𝐖𝐈𝐘𝐀"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254748387615"
+    "value": "923472207399"
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "4"
   },
   "STARTING_BOT_MESSAGE":
   {
